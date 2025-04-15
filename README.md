@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/version-v2.1-green?style=flat-square)
 # vanish-cli
 
 **Vanish Protocol v2.1** – A stealth Wi-Fi handshake capture tool for ethical hacking and red team ops.
